@@ -35,3 +35,24 @@ You can install the required libraries using pip:
 
 ```bash
 pip install Flask pandas openpyxl
+
+
+Setup and Installation
+Clone the Repository:
+
+bash
+Copy
+git clone https://github.com/your-username/flask-file-upload.git
+cd flask-file-upload
+Install Dependencies:
+
+bash
+Copy
+pip install -r requirements.txt
+Run the Application:
+
+bash
+Copy
+python app.py
+Access the Application:
+Open your browser and go to http://127.0.0.1:5000/.
